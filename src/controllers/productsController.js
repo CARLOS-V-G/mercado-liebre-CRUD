@@ -60,7 +60,7 @@ const controller = {
 	   };
 	   products.push(newProduct);
 	   guardarJSON();
-	   res.redirect(`/products/detail/${newProduct.id}`);
+	   res.redirect(`/products`);
 	},
  
 	// Update - Form to edit

@@ -151,5 +151,23 @@
       "category": "in-sale",
       "description": "Disfruta tus mejores juegos con los monitores de Samsung",
       "image": "default-image.png"
+   },
+   {
+      "id": 18,
+      "name": "Zapatilla Nike",
+      "price": 12000,
+      "discount": 1,
+      "category": "in-sale",
+      "description": "Nike, el mejor Zapatilla del mercado",
+      "image": "default-image.png"
+   },
+   {
+      "id": 19,
+      "name": "Procesador Ryzen 5600G",
+      "price": 35000,
+      "discount": 0,
+      "category": "visited",
+      "description": "Disfruta tus juegos Favorito con los procesadores Ryzen 5600G de AMD",
+      "image": "default-image.png"
    }
 ]
