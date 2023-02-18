@@ -32,7 +32,7 @@
                      </p>
                      <p class="product-detail-price">$<%= priceFinal(productDetail.price,productDetail.discount) %></p>
                      <% }else { %>
-                     <p class="product-detail-price">$<%= toThousand(productDetail.price) %></p>
+                     <p class="product-detail-price">$<%= productDetail.price %></p>
                      <% } %>
 
                      <ul class="actions-list">

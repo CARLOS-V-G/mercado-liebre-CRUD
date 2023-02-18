@@ -169,5 +169,23 @@
       "category": "visited",
       "description": "Disfruta tus juegos Favorito con los procesadores Ryzen 5600G de AMD",
       "image": "default-image.png"
+   },
+   {
+      "id": 20,
+      "name": "Samsung - tv",
+      "price": 100000,
+      "discount": 1,
+      "category": "visited",
+      "description": "TV",
+      "image": "default-image.png"
+   },
+   {
+      "id": 21,
+      "name": "PC-GAMER",
+      "price": 70000,
+      "discount": 0,
+      "category": "visited",
+      "description": "PC-GAMER con procesador AMD + 16GB RAM y Tarjeta grafica RTX 4090",
+      "image": "1676688688933_products_.png"
    }
 ]
